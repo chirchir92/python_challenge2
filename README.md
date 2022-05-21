@@ -9,5 +9,7 @@ This challenge uses a python script to analyse the financial records of a compan
   net profit/loss over the entire period
   
   average of changes in profits/losses over the entire period
+  
   greatest profit increase over the entire period
+  
   greatest loss decrease over the entire period
